@@ -43,9 +43,13 @@ unable to add a folder in github to store images
 
 **Other possible tables and/or graphs :**
 
-1.Outcomes based on backers count ,Image and anlysis in excel file attached 
+1.Outcomes based on backers count ,Chart and anlysis in excel file attached 
 
-2.Outcomes based on average duration of campaign for category theater,Image and anlysis in excel file attached 
+![table on backers](table_backers.PNG)
+
+2.Outcomes based on average duration of campaign for category theater,Chart and anlysis in excel file attached 
+
+![table on average duration of campaign](table_avg_days.PNG)
 
 **Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
 
