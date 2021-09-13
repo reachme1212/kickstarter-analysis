@@ -25,6 +25,8 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 2.Top 3 success rates are for goals between 1000 to 10000 USD , 68.44%,66.61%, & 53.21%, Its safe conclusion to say we have a better chance of being a successful campaign if we lower our fund raising goal of $10000, to fit into the range of 5000 to 9999 USD.
 
+![outcomes vs goal chart](Outrcomes_vs_goals.PNG)
+
 
 **Limitations of this dataset:**
 
