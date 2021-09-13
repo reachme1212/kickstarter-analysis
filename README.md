@@ -43,11 +43,13 @@ unable to add a folder in github to store images
 
 **Other possible tables and/or graphs :**
 
-1.Outcomes based on backers count ,Chart and anlysis in excel file attached 
+1.Outcomes based on backers count ,Chart and anlysis in excel file attached,In the category theaters and plays ,
+  65.5% (42072/64196) of all people contributed to plays ,out of    which 60.8% (39032/64196) of people contributed to successful plays 
 
 ![table on backers](table_backers.PNG)
 
-2.Outcomes based on average duration of campaign for category theater,Chart and anlysis in excel file attached 
+2.Outcomes based on average duration of campaign for category theater,Chart and anlysis in excel file attached , Out of the total number of successful plays 1066 , 
+  the average     duration of campaign is 29 days , Its safe to say Louise’s campaign should last 29days minimum 
 
 ![table on average duration of campaign](table_avg_days.PNG)
 
