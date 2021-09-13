@@ -27,7 +27,8 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 2.Top 3 success rates are for goals between 1000 to 10000 USD , 68.44%,66.61%, & 53.21%, Its safe conclusion to say we have a better chance of being a successful campaign if we lower our fund raising goal of $10000, to fit into the range of 5000 to 9999 USD.
 
-![outcomes vs goals chart](Outcomes_vs_goals.PNG)
+![outcomes vs goal chart](outcomes_vs_goal.PNG)
+
 
 **Limitations of this dataset:**
 
@@ -43,14 +44,10 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 **Other possible tables and/or graphs :**
 
-1.Outcomes based on backers count
+1.Outcomes based on backers count ,Image and anlysis in excel file attached 
 
-![Outcomes_based_ _on_backercount chart](Outcomes_based_ _on_backercount.PNG)
+2.Outcomes based on average duration of campaign for category theater,Image and anlysis in excel file attached 
 
-2.Outcomes based on average duration of campaign for category theater
-
-![outcomes_based on_avergae_days _of_camp chart](outcomes_based on_avergae_days _of_camp.PNG)
- 
 **Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
 
 
