@@ -38,7 +38,10 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 **## results :**
 
 1.It’s safe to say that to  successfully reach the goal of raising $10000 we need launch the campaign in may,June or jul  not in dec.
+
 2.we have a better chance of being a successful campaign if we lower our fund raising goal of $10000, to fit into the range of 5000 to 9999 USD.
+
+Analysis suggest ideal month to launch is May and we need to reduce the dollar amount from $10000 to atleast $9999.
 
 
 
