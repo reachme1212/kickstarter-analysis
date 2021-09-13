@@ -1,2 +1,14 @@
-# kickstarter-analysis
-Module 1 trend analysis on excel
+# kickstarter-analysis with Excel
+
+## overview of project 
+
+###Purpose
+
+##Analysis  and challenges
+
+
+###Analysis of outcome based on launch date 
+
+## results 
+
+
