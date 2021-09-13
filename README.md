@@ -24,6 +24,7 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 2. Top 3 success rates are for goals between 1000 to 10000 USD , 68.44%,66.61%, & 53.21%, Its safe conclusion to say we have a better chance of being a successful campaign if we lower our fund raising goal of $10000, to fit into the range of 5000 to 9999 USD.
 
+
 **###limitations of this dataset:**
 
 1.	We know the success rate for theaters are high in the month of may ,June and July during 2009 to 2017 , We do not have the specific data that says what contributes to this success rate for example: summer vacations and /or higher number of tourists during the time of may June july.
@@ -38,9 +39,11 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 **###other possible tables and/or graphs :**
 
-1.	Outcomes based on backers count (Please check excel file attached in this repository:
+1.	Outcomes based on backers count
 
 2.  Outcomes based on average duration of campaign for category theater
+
+**##Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
 
 **## results :**
 
