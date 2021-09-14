@@ -36,7 +36,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 1.We know the success rate for theaters are high in the month of May, June and July during 2009 to 2017, We do not have the specific data that says what contributes to this success rate for example: summer vacations and /or higher number of tourists during the time of May June July.
 
-2.Even though this dataset shows out of 64196 people, 58457 contributed to successful campaigns for theater category, we cannot say what number of people will actually contribute to the play “fever” based on these number this is out of our control.
+2.Even though this dataset shows out of 64196 people, 58457 contributed to all successful campaigns, we cannot say what number of people will actually contribute to the play “fever” based on these number this is out of our control.
 
 4.We also do not know how this data is collected and whether we have missed any age group or demography, elements that can be helpful in determining the metrics of successful campaign.
 
