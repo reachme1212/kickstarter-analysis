@@ -56,7 +56,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 ![total num outcomes](table_avg_days2.PNG)
 
-**Analysis based on goals under 10k and over 10k:
+**Analysis based on goals under 10k and over 10k:**
 
 1.	Total number of events for the category play with goals under $10000 is 900, When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
 
