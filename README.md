@@ -2,7 +2,7 @@
 
 **Overview of project :**
 
-We are analyzing the given data set to help ‘Louise start a successful fundraising campaign for the play “Fever” she has a goal of $10000 USD. 
+We are analyzing the given data set to help Louise start a successful fundraising campaign for the play “Fever” she has a goal of $10000 USD. 
 
 **Purpose:**
 
