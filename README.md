@@ -71,6 +71,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 
 **Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
+[kickstarter challenge2] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge2.xlsx)
 
 
 **Results:**
