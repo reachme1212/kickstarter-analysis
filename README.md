@@ -64,7 +64,7 @@ unable to add a folder in github to store images
 
 1.It’s safe to say that to successfully reach the goal of $10000 we need launch the campaign in the month of may,second best options are june or july, Its best not to launch our campaign during the month of dec.
 
-2.Its recommended the campaign last atleast 29days before closing.
+2.we recommend the campaign last atleast 29 days before closing.
 
 2.We have a better chance of being a successful if we lower our fund raising goal of $10000, to fit into the range of $5000 to 9999 USD.
 
