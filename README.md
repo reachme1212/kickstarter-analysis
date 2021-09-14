@@ -53,6 +53,7 @@ unable to add a folder in github to store images
 
 ![table on average duration of campaign](table_avg_days.PNG)
 
+
 ![table on total outcomes](outcomes_avg_days2.PNG)
 
 **Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
