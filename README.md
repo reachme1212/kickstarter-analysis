@@ -56,13 +56,26 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 ![total num outcomes](table_avg_days2.PNG)
 
-**Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
+**Analysis based on goals under 10k and over 10k:
 
+1.	Total number of events for the category play with goals under $10000 is 900, When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
+
+2.	Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 12891 people contributed for these events.
+
+3.	Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
+
+![table](goalsbelow10k.PNG)
+![table](goalsover10k.PNG)
+![chart](goalbelow10kchart.PNG)
+![chart](goalover10kchart.PNG)
+
+
+**Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
 
 
 **Results:**
 
-1.It’s safe to say that to successfully reach the goal of $10000 we need launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec.
+1.It’s safe to say that to successfully reach the goal of $10000 we need to launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec.
 
 2.We recommend the campaign last at least 29 days before closing.
 
