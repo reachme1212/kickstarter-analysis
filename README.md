@@ -67,7 +67,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 ![chart](goalover10kchart.PNG)
 
 
-**Links** 
+**Links** [Excel zipped folder]( https://github.com/reachme1212/kickstarter-analysis/blob/main/Kickstarter_excel_reports.zip)
 
 
 **Results:**
