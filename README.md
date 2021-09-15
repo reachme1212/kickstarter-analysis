@@ -40,9 +40,6 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 4.We also do not know how this data is collected and whether we have missed any age group or demography, elements that can be helpful in determining the metrics of successful campaign.
 
-5.location or area of the play and who actually spent money to go watch a play in theaters in those locations is a good contributor that will give us more precise information and understanding to plan our campaign.
-
-
 **Other possible tables and/or graphs :**
 
 1.Outcomes based on backers count, Chart and analysis are available in excel file attached below, In the category theaters and plays, 65.5% (42072/64196) of all people contributed to plays, out of which 60.8% (39032/64196) of people contributed to successful plays 
