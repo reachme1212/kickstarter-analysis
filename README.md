@@ -67,17 +67,16 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 ![chart](goalover10kchart.PNG)
 
 
-**Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
-[kickstarter challenge2] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge2.xlsx)
+**Links** 
 
 
 **Results:**
 
-1.It’s safe to say that to successfully reach the goal of $10000 we need to launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec.
+1.It’s safe to say that to successfully reach the goal of $10000 we need launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec. 
 
-2.We recommend the campaign last at least 29 days before closing.
+2.We recommend the campaign last at least 29 days before closing, because the average duration of successful fund raisers are 29 days.
 
-3.We have a better chance of being a successful if we lower our fund-raising goal of $10000, to fit into the range of $5000 to 9999 USD.
+3.We have a better chance of being a successful if we lower our fund-raising goal of $10000, to fit into the range of $5000 to 9999 USD, as higher goals in this dataset has a lower success rate.
 
 
 
