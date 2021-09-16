@@ -55,17 +55,27 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 **Analysis based on goals under 10k and over 10k:**
 
-1.	Total number of events for the category play with goals under $10000 is 889 , When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
+1.Total number of events for the category play with goals under $10000 is 889 , When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
 
-2.	Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 12891 people contributed for these events.
+2.Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 12891 people contributed for these events.
 
-3.	Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
+3.Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
 
 ![table](goalsbelow10k.PNG)
 ![table](goalsover10k.PNG)
 ![chart](goalbelow10kchart.PNG)
 ![chart](goalover10kchart.PNG)
 
+**Descriptive statistics for all play:
+
+  1.Average goal amount of all successful plays shows $4100.83 , For the failed plays its $9826.69 , Average pledged amount for successful play events is $ 4535.66 higher          compared to average pledeged amount of failed play $527.50, its safe to say lower goal amounts contributed to success of the fund raising campaign.
+  
+  2.When we look at the upper quartile amounts for the category goals of successful plays who reached their goals is $4500.00 , 75% of all plays had goals below $4500, 
+    Louise's goal is $10000 which is way more than the average of all successful plays,
+    
+  3.There are total of 52 plays with $10000 goal and out of which 29 were successful 55.8% successrate, these are very small samples to analyse and spot any trend and cant not       give any recomendations based on this.
+    
+  ![Stat numbers all play](Des_stat.PNG)
 
 **Links** [Excel zipped folder]( https://github.com/reachme1212/kickstarter-analysis/blob/main/Kickstarter_excel_reports.zip)
 
