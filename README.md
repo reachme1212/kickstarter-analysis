@@ -66,7 +66,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 ![chart](goalbelow10kchart.PNG)
 ![chart](goalover10kchart.PNG)
 
-**Descriptive statistics for all play:
+**Descriptive statistics for all play:**
 
   1.Average goal amount of all successful plays shows $4100.83 , For the failed plays its $9826.69 , Average pledged amount for successful play events is $ 4535.66 higher          compared to average pledeged amount of failed play $527.50, its safe to say lower goal amounts contributed to success of the fund raising campaign.
   
