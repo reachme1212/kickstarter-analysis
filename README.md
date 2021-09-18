@@ -40,9 +40,6 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 4.We also do not know how this data is collected and whether we have missed any age group or demography, elements that can be helpful in determining the metrics of successful campaign.
 
-5.location or area of the play and who actually spent money to go watch a play in theaters in those locations is a good contributor that will give us more precise information and understanding to plan our campaign.
-
-
 **Other possible tables and/or graphs :**
 
 1.Outcomes based on backers count, Chart and analysis are available in excel file attached below, In the category theaters and plays, 65.5% (42072/64196) of all people contributed to plays, out of which 60.8% (39032/64196) of people contributed to successful plays 
@@ -58,29 +55,38 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 **Analysis based on goals under 10k and over 10k:**
 
-1.	Total number of events for the category play with goals under $10000 is 889 , When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
+1.Total number of events for the category play with goals under $10000 is 889 , When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) success rate     and 29007 people contributed for these events with lower goals. How many people will contribute to Louises play is not something we can predict exactly however this is a         good insight to know more people are contributing to the plays with lesser goals 
 
-2.	Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 12891 people contributed for these events.
+2.Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 12891 people contributed for these events.
 
-3.	Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
+3.Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
 
 ![table](Kickstarter_images/goalsbelow10k.PNG)
 ![table](Kickstarter_images/goalsover10k.PNG)
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
 ![chart]Kickstarter_images/(goalover10kchart.PNG)
 
+**Descriptive statistics for all play:**
 
-**Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
-[kickstarter challenge2] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge2.xlsx)
+  1.Average goal amount of all successful plays shows $4100.83 , For the failed plays its $9826.69 , Average pledged amount for successful play events is $ 4535.66 higher          compared to average pledeged amount of failed play $527.50, its safe to say lower goal amounts contributed to success of the fund raising campaign.
+  
+  2.When we look at the upper quartile amounts for the category goals of successful plays who reached their goals is $4500.00 , 75% of all plays had goals below $4500, 
+    Louise's goal is $10000 which is way more than the average of all successful plays,
+    
+  3.There are total of 52 plays with $10000 goal and out of which 29 were successful 55.8% successrate, these are very small samples to analyse and spot any trend and cant not       give any recomendations based on this.
+    
+  ![Stat numbers all play](Des_stat.PNG)
+
+**Links** [Excel zipped folder]( https://github.com/reachme1212/kickstarter-analysis/blob/main/Kickstarter_excel_reports.zip)
 
 
 **Results:**
 
-1.It’s safe to say that to successfully reach the goal of $10000 we need to launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec.
+1.It’s safe to say that to successfully reach the goal of $10000 we need launch the campaign in the month of may, second best options are June or July, Its best not to launch our campaign during the month of dec. 
 
-2.We recommend the campaign last at least 29 days before closing.
+2.We recommend the campaign last at least 29 days before closing, because the average duration of successful fund raisers are 29 days.
 
-3.We have a better chance of being a successful if we lower our fund-raising goal of $10000, to fit into the range of $5000 to 9999 USD.
+3.We have a better chance of being a successful if we lower our fund-raising goal of $10000, to fit into the range of $5000 to 9999 USD, as higher goals in this dataset has a lower success rate.
 
 
 
