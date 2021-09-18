@@ -64,7 +64,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 ![table](Kickstarter_images/goalsbelow10k.PNG)
 ![table](Kickstarter_images/goalsover10k.PNG)
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
-![chart]Kickstarter_images/(goalover10kchart.PNG)
+![chart](Kickstarter_images/(goalover10kchart.PNG)
 
 **Descriptive statistics for all play:**
 
@@ -75,7 +75,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
     
   3.There are total of 52 plays with $10000 goal and out of which 29 were successful 55.8% successrate, these are very small samples to analyse and spot any trend and cant not       give any recomendations based on this.
     
-  ![Stat numbers all play](Des_stat.PNG)
+  ![Stat numbers all play](Kickstarter_images/Des_stat.PNG)
 
 **Links** [Excel zipped folder]( https://github.com/reachme1212/kickstarter-analysis/blob/main/Kickstarter_excel_reports.zip)
 
