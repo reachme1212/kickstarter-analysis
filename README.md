@@ -20,7 +20,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 2.The campaigns that started in the month of dec has the lowest success rate of 8.9% (75/839), out of all successful campaigns launched during 2009 to 2017 it’s safe to say that to successfully reach the goal of raising $10000, we need to launch the campaign in may not in dec.
 
 
-![outcomes vs launch date chart](Theater_outcome_vs_launch.PNG)
+![outcomes vs launch date chart](Kickstarter_images/Theater_outcome_vs_launch.PNG)
 
 **Outcomes based on Goals:**
 
@@ -29,7 +29,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 2.Top 3 success rates are for goals between 1000 to 10000 USD, 68.44%,66.61%, & 53.21%, Its safe conclusion to say we have a better chance of being a successful campaign if we lower our fund-raising goal of $10000, to fit into the range of 5000 to 9999 USD.
 
 
-![outcomes vs goal chart](outcomes_vs_goal.PNG)
+![outcomes vs goal chart](Kickstarter_images/outcomes_vs_goal.PNG)
 
 
 **Limitations of this dataset:**
@@ -47,14 +47,14 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 1.Outcomes based on backers count, Chart and analysis are available in excel file attached below, In the category theaters and plays, 65.5% (42072/64196) of all people contributed to plays, out of which 60.8% (39032/64196) of people contributed to successful plays 
 
-![table on backers](table_backers.PNG)
+![table on backers](Kickstarter_images/table_backers.PNG)
 
 2.Outcomes based on average duration of campaign for category theater, Chart and analysis in excel file attached, Out of the total number of successful plays 1066, the average duration of campaign is 29 days , Its safe to say Louise’s campaign should last 29 days minimum
 
-![table on average duration of campaign](table_avg_days.PNG)
+![table on average duration of campaign](Kickstarter_images/table_avg_days.PNG)
 
 
-![total num outcomes](table_avg_days2.PNG)
+![total num outcomes](Kickstarter_images/table_avg_days2.PNG)
 
 **Analysis based on goals under 10k and over 10k:**
 
@@ -64,10 +64,10 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 3.	Overall fundraising events - 4114 , out of which total plays are 1066 that is 25.9% of all event are plays. 
 
-![table](goalsbelow10k.PNG)
-![table](goalsover10k.PNG)
-![chart](goalbelow10kchart.PNG)
-![chart](goalover10kchart.PNG)
+![table](Kickstarter_images/goalsbelow10k.PNG)
+![table](Kickstarter_images/goalsover10k.PNG)
+![chart](Kickstarter_images/goalbelow10kchart.PNG)
+![chart]Kickstarter_images/(goalover10kchart.PNG)
 
 
 **Links** [kickstarter challenge] (https://github.com/reachme1212/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
