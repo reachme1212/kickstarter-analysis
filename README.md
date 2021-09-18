@@ -63,8 +63,10 @@ Major challenges I faced is to fix excel glitches for pivots , Vlookups and git 
 3.For all events with goals equal to and above 10000 USD the success rate is lower compare to goals under 10000 USD. 
 
 ![table](Kickstarter_images/playsbelow10ktable.PNG)
+![table](Kickstarter_images/goalsbelow10k.PNG)
 
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
+![chart](Kickstarter_images/goalover10kchart.PNG)
 
 
 **Descriptive statistics for all play:**
