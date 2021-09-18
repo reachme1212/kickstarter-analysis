@@ -56,13 +56,13 @@ Major challenges I faced is to fix excel glitches for pivots , Vlookups and git 
 
 **Analysis based on goals under 10k and over 10k for all theater and play fund raising events:**
 
-1.Total number of all events for the category goals under $10000 is 2451, 889 are plays, plays contributes to 36.27% to all events under the goal 10000 USD, plays contibute 84% to overall theater events , When goals are below $10000 the successful outcome are 622, that is 70 % (622/889) of all plays succeeded. 
+1.Total number of all events for the category goals under $10000 is 2608, 900 are plays, plays contributes to 34.5% to all events under the goal 10000 USD, plays contibute 58% to overall theater events under 10000 USD , When goals are below $10000 the successful outcome are 622, that is 69.1 % (622/900) of all plays under 10k goal has succeeded. 
 
-2.Total number of events for category plays with goals equal to $10000 or above are 158, successful plays are 72, 45.5% success rate, 11769 people contributed for these events.
+2.Total number of events for category plays with goals equal to $10000 are 158, successful plays are 72, 45.5% success rate, 11769 people contributed for these events.
 
 3.For all events with goals equal to and above 10000 USD the success rate is lower compare to goals under 10000 USD. 
 
-![table](Kickstarter_images/goalsbelow10k.PNG)
+![table](Kickstarter_images/playsbelow10ktable.PNG)
 ![table](Kickstarter_images/goalsover10k.PNG)
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
 ![chart](Kickstarter_images/(goalover10kchart.PNG)
