@@ -64,12 +64,11 @@ Major challenges I faced is to fix excel glitches for pivots , Vlookups and git 
 
 ![table](Kickstarter_images/playsbelow10ktable.PNG)
 
-![table](Kickstarter_images/playsover10ktable.PNG))
-
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
 
 ![chart](Kickstarter_images/goalover10kchart.PNG)
 
+![table](Kickstarter_images/playsover10ktable.PNG))
 
 **Descriptive statistics for all play:**
 
