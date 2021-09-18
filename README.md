@@ -28,7 +28,7 @@ Major challenges I faced is to fix excel glitches for pivots , Vlookups and git 
 
 2.Top 3 success rates are for goals between 1000 to 10000 USD, and goals over 10000 to 14999 USD at 47.73% all other goals have lower success rate. Its safe conclusion to say we have a better chance of being a successful campaign if we lower our fund-raising goal of $10000, to fit into the range of 5000 to 9999 USD or 1000 to 4999 whaterever is feasible.
 
-
+![table](Kickstarter_images/(goalrange_vs_sucessrate.PNG)
 ![outcomes vs goal chart](Kickstarter_images/outcomes_vs_goal.PNG)
 
 
@@ -66,7 +66,7 @@ Major challenges I faced is to fix excel glitches for pivots , Vlookups and git 
 ![table](Kickstarter_images/goalsover10k.PNG)
 ![chart](Kickstarter_images/goalbelow10kchart.PNG)
 ![chart](Kickstarter_images/(goalover10kchart.PNG)
-![table](Kickstarter_images/(goalrange_vs_sucessrate.PNG)
+
 
 **Descriptive statistics for all play:**
 
