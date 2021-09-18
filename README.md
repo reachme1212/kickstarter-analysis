@@ -10,7 +10,7 @@ Purpose of this analysis is to find insights from the dataset based on goals and
 
 **Analysis  and challenges:**
 
-Major challenges I faced is to fix excel glitches for pivots and Vlookups and to figure out what are the right questions to ask to help with this analysis. unable to add a folder in GitHub to store images
+Major challenges I faced is to fix excel glitches for pivots , Vlookups and git bash pull and push, It was a challenge to figure out what are the right questions to ask that helps with this analysis. 
 
 
 **Outcomes based on launch date:**
@@ -38,7 +38,7 @@ Major challenges I faced is to fix excel glitches for pivots and Vlookups and to
 
 2.Even though this dataset shows out of 64196 people, 58457 contributed to all successful campaigns, we cannot say what number of people will actually contribute to the play “fever” based on these number this is out of our control.
 
-4.We also do not know how this data is collected and whether we have missed any age group or demography, elements that can be helpful in determining the metrics of successful campaign.
+4.We also do not know how this data is collected and we have no data like age group who contribute to these fund raisers or Specific demography information instead of a country specific data , reason being US is very large compared to GB so there may be differences like in some states people can contribute more to sports and never for plays , these are some elements that can be helpful in determining or predict what should be done to be a successful fund raising campaign for play.
 
 **Other possible tables and/or graphs :**
 
