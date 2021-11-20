@@ -8,11 +8,6 @@ I am analyzing the given data set to help Louise start a successful fundraising 
 
 Purpose of this analysis is to find insights from the dataset based on goals and launch date to help Louise achieve the goal of raising $10000 USD and to find metrics that will help achieve the goal.
 
-**Analysis  and challenges:**
-
-Major challenges I faced is to fix excel glitches for pivots , Vlookups and git bash pull and push, It was a challenge to figure out what are the right questions to ask that helps with this analysis. 
-
-
 **Outcomes based on launch date:**
 
 1.Fund raising campaigns for parent category “theaters” did well when it’s launched during the month of May from the year 2009 to 2017. Out of total theater based fundraising campaigns in the data given 1369, there were 839 successful campaigns, 61% of campaigns became successful in the category theaters and it’s important to note that out of these 839, 111 successful events happened in the month of May (2009 to 2017), that shows 13.2% of all successful events came from the month of May. June and July were relatively successful with percentage of 11.9% and 10.4%, From the data given its easy to see May is a good month to launch.
