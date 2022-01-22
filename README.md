@@ -1,4 +1,4 @@
-# kickstarter-analysis with Excel
+# kickstarter-analysis using Excel
 
 **Overview of project :**
 
